@@ -9,4 +9,9 @@ outro dataset.
 
 Meu trabalho nesse dataset é de limpar e pré-processar os dados para prepara-lo para uma próxima sequência de análise.
 
-<img alt="Colab" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/python.svg">
+A visualização do projeto pode ser feita pelo link https://github.com/And3rson-Paiva/limpeza-e-pre-processamento-com-numpy/blob/main/limpeza-e-pre-processamento-de-dados-com-numpy.md
+
+
+Tecnologias utilizadas:
+
+<img alt="Python" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/python.svg"> <img alt="Jupyter" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/1200px-Jupyter_logo.svg.png"> <img alt="Numpy" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/numpy.png">
